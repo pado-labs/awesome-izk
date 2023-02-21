@@ -9,6 +9,23 @@ Interactive zero-knowledge (IZK) proofs are another type of zero knowledge proof
 
 with the requirement of "more interactions" -- the prover and the verifier execute in multiple rounds of communications. The interaction is quite like in MPC (secure multi-party computation), and in fact the cutting-edge izk algorithms are built from MPC!
 
+```
+              xxx
+            xxxxxxx                                         +---xxx
+             |   | +----------+                             |   |  xx
+             |   | | statement|  --------------------->     |   |   xxx
+             +-+-+ +-+--------+                             +-+-+
+               |     |         <-----------------------       |
++---------+----+-----+                                  ------+---+------+
+| secret  |    |           --------------------------->       |   |  Y/N |
++---------+    |                                           +--+   +------+
+             +-+-+     <--------------------------------   |  |
+             |   |                                         |  +---++
+             |   |    --------------------------------->   |      ++
+             |   |
+```
+
+
 Check this [post](https://blog.chain.link/interactive-zero-knowledge-proofs/) for a more comprehensive understanding of IZK and NIZK.
 
 ## IZK related papers  
