@@ -1,7 +1,7 @@
-# Awesome-IZK
+# Awesome-iZK
 created for cryptography/web3/privacy builders (updating...)
 
-Interactive zero-knowledge (IZK) proofs are another type of zero knowledge proof system, compared with the more well-known non-interactive versions (a.k.a, zk-SN(T)ARKs. Howeverm, IZK protocols shares the extra advantages including:
+Interactive zero-knowledge (iZK) proofs are another type of zero knowledge proof system, compared with the more well-known non-interactive versions (a.k.a, zk-SN(T)ARKs. Howeverm, iZK protocols shares the extra advantages including:
 
 1. scalable for large statement
 2. cheap computation and memory cost
@@ -26,9 +26,9 @@ with the requirement of "more interactions" -- the prover and the verifier execu
 ```
 
 
-Check this [post](https://blog.chain.link/interactive-zero-knowledge-proofs/) for a more comprehensive understanding of IZK and NIZK.
+Check this [post](https://blog.chain.link/interactive-zero-knowledge-proofs/) for a more comprehensive understanding of iZK and NIZK.
 
-## IZK related papers 
+## iZK related papers 
 ### General IZK protocols
 * Wolverine (IEEE S&P' 21): https://eprint.iacr.org/2020/925  
 * Quicksilver (CCS' 21): https://eprint.iacr.org/2021/076  
