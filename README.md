@@ -7,7 +7,7 @@ Interactive zero-knowledge (iZK) proofs are another type of zero knowledge proof
 2. cheap computation and memory cost
 3. avoid of trusted setup
 
-with the requirement of "more interactions" -- the prover and the verifier execute in multiple rounds of communications. The interaction is quite like in MPC (secure multi-party computation), and in fact the cutting-edge izk algorithms are built from MPC!
+with the requirement of "more interactions" -- the prover and the verifier execute in multiple rounds of communications. The interaction is quite like in MPC (secure multi-party computation), and in fact the cutting-edge iZK algorithms are built from MPC!
 
 ```
               xxx
