@@ -37,10 +37,23 @@ Check this [post](https://blog.chain.link/interactive-zero-knowledge-proofs/) fo
 * Limbo (CCS' 21): https://eprint.iacr.org/2021/215
 * Appenzeller to Brie (CCS' 21): https://eprint.iacr.org/2021/750
 
+### Line-Point ZK protocols
+* DIO21 (ITC'21): https://eprint.iacr.org/2020/1446
+* FKL+21 (CCS'21):https://eprint.iacr.org/2021/979
+* DILO22 (CCS'22): https://eprint.iacr.org/2022/552
+* BBMS22 (CRYPTO'22): https://eprint.iacr.org/2022/819
+
+### Some Classic iZK protocols
+* JKO13 (CCS'13): https://eprint.iacr.org/2013/073
+* FNO15 (EUROCRYPT'15): https://eprint.iacr.org/2014/598
+* HK20a (EUROCRYPT'20): https://eprint.iacr.org/2020/136
+* HYDK21 (IEEE S&P'21): https://eprint.iacr.org/2022/810
+* HK20b (CCS'20): https://eprint.iacr.org/2022/809
+
 ### Related protocols
 Vector Oblivious linear-function evaluation （VOLE）:
 * BCGI18(CCS'18): https://eprint.iacr.org/2019/273
 
 Information-theoretic message authentication codes(IT-MACs):
-* BDOZ11（Eurocrypt'11）: https://eprint.iacr.org/2010/514.pdf
+* BDOZ11（EUROCRYPT'11）: https://eprint.iacr.org/2010/514.pdf
 * NNOB12 (CRYPTO'12): https://eprint.iacr.org/2011/091
