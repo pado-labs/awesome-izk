@@ -56,9 +56,9 @@ Here is a series of posts about IZK proofs presented by Chainlink.
 * JKO13 (CCS'13): https://eprint.iacr.org/2013/073
 
 ### Related Protocols
-Vector Oblivious Linear-function Evaluation （VOLE）:
+Vector Oblivious Linear-function Evaluation (VOLE):
 * BCGI18(CCS'18): https://eprint.iacr.org/2019/273
 
-Information-Theoretic Message Authentication Codes(IT-MACs):
+Information-Theoretic Message Authentication Codes (IT-MACs):
 * NNOB12 (CRYPTO'12): https://eprint.iacr.org/2011/091
 * BDOZ11（EUROCRYPT'11）: https://eprint.iacr.org/2010/514.pdf
