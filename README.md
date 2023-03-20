@@ -38,7 +38,7 @@ Here is a series of posts about IZK proofs presented by Chainlink.
 * [Realizing SPVOLE](https://blog.chain.link/realizing-spvole/)
 
 ## Paper 
-### Private Coin IZKs
+### Private-Coin IZK Proofs
 * DILO22 (CCS'22): https://eprint.iacr.org/2022/552
 * BBMS22 (CRYPTO'22): https://eprint.iacr.org/2022/819
 * Wolverine (IEEE S&P' 21): https://eprint.iacr.org/2020/925  
@@ -55,7 +55,7 @@ Here is a series of posts about IZK proofs presented by Chainlink.
 * FNO15 (EUROCRYPT'15): https://eprint.iacr.org/2014/598
 * JKO13 (CCS'13): https://eprint.iacr.org/2013/073
 
-### Related protocols
+### Related Protocols
 Vector Oblivious Linear-function Evaluation （VOLE）:
 * BCGI18(CCS'18): https://eprint.iacr.org/2019/273
 
