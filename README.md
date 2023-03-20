@@ -1,7 +1,7 @@
 # Awesome-IZK
 Created for Web3 builders. (Keep updating...)
 
-- Interactive Zero-Knowledge (IZK) proofs are another type of zero-knowledge proof system,in which the proof is consists of a multi-round protocol between the prover and verifier. They are also called as  designed verifier zero-knowledge protocols. They are complements of zk-SNARKs/zk-STARKs.
+- Interactive Zero-Knowledge (IZK) proofs are another type of zero-knowledge proof system, in which the proof consists of a multi-round protocol between the prover and verifier. They are also called as designed verifier zero-knowledge protocols. They are complements of zk-SNARKs/zk-STARKs.
 
 - IZK enjoys the following benefits, and we believe it will become a key building block for Web3 applications.
 
